@@ -1,1 +1,1 @@
-*This one has WIFI and humidity sensor together*
+This one has WIFI and humidity sensor together
